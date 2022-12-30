@@ -1,3 +1,1 @@
-# deneme
-# aralik
 # Deneme
