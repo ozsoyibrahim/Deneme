@@ -145,7 +145,7 @@ nav img {
     width: 80%;
     margin: auto;
     text-align: center;
-    padding: 80px;
+    padding: 40px;
 }
 
 .course h1 {
@@ -170,7 +170,7 @@ nav img {
     flex-basis: 30%;
     border-radius: 10px;
     margin-bottom: 5%;
-    padding: 20px 10px;
+    padding: 10px 10px;
     box-sizing: border-box;
     font-weight: bold;
 }
@@ -194,7 +194,7 @@ nav img {
     width: 80%;
     margin: auto;
     text-align: center;
-    padding: 50px;
+    padding: 10px;
 }
 
 .campus-col {
